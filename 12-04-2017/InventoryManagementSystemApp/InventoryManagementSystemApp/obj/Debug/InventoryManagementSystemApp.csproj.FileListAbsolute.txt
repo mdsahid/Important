@@ -1,0 +1,6 @@
+C:\Users\Trainer 301\Desktop\Web App.Net\Batch 42\12.04.2017\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\InventoryManagementSystemApp.dll.config
+C:\Users\Trainer 301\Desktop\Web App.Net\Batch 42\12.04.2017\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\InventoryManagementSystemApp.dll
+C:\Users\Trainer 301\Desktop\Web App.Net\Batch 42\12.04.2017\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\InventoryManagementSystemApp.pdb
+C:\Users\Trainer 301\Desktop\Web App.Net\Batch 42\12.04.2017\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.csprojResolveAssemblyReference.cache
+C:\Users\Trainer 301\Desktop\Web App.Net\Batch 42\12.04.2017\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.dll
+C:\Users\Trainer 301\Desktop\Web App.Net\Batch 42\12.04.2017\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.pdb
